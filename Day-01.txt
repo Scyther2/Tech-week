@@ -1,0 +1,28 @@
+Getting started with Open-source 
+Date- 11/04/2022
+Guests- Sourav 
+	Guest-2 (tentative)
+
+Ravi-self intro
+Nihar -self-intro
+
+Ravi -introduce Sourav
+          Introduce guest-2
+1) Sourav tell us more about yourself and your journey!
+2)Guest-2 tell us more about yourself and your journey!
+3) What exactly is an open source!
+	view from Sourav
+	view from guest 2
+4)Why to contribute open-source projects! Or what are the advantages!
+5)How to start contributing to open-source projects and what path to take for it!
+6)How to find open-source projects! & Where we should contribute to it!
+7)What are the disadvantages of open-source projects!!
+8)How and which big companies are backing open-source!! Or which fellowships are there regarding open-source!!
+9)What are career opportunities via open-source contribution!
+10)Which are the biggest open-source software are there??
+11)What are the security threats while using open-source software!! And how big companies are managing these threats!!
+12)What is your advice to complete beginner!
+13)Any other input from your side.
+Open stage for the audience!!
+
+All these are tentative questions!
