@@ -1,0 +1,32 @@
+The TECH week
+
+Day-03 Cracking dream job with DSA
+Date-12/04/2022
+Time- 9-10 pm IST
+
+Guests- 1)Shreya Prasad
+        2)Nistha Gupta
+        3)Balram prasad
+Hosts- Nihar Thummar
+       Ravi Kumar
+       
+       
+Introduction-
+→Host will introduce All 3 guests.
+→Guests will be given mic to tell more about themselves.
+
+
+Questions-
+1)Can you guys just briefly tell the whole interview process at Big tech companies!
+2)Which language to choose for coding interviews?(C++, JAVA ,PYTHON)
+3)What are some Good resources to start with??
+4)Which platforms to choose?
+5)Importance of Grades of college!!
+6)At what extant Competitive programming is necessary?
+7)Which and how much cs core subjects one should study?? (Cs core subjects like Database management, OS,CN)
+8)What type of Projects should one make??How many??
+9)What one should take in mind while searching for Internships and Jobs?(On-campus and Off-campus)
+10)Aptitude round
+11)To Mr. Balram- What differences are there in interview process in India and abroad.
+12) How one can get into big tech companies abroad!!
+13) Anything guest want to add!
